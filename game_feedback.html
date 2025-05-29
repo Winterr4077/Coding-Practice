@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Game Feedback</title>
+    </head>
+    <body>
+        <header>
+            <h1>Game Feedback Form</h1>
+            <p>Please provide feedback based on the game you've just played.</p>
+        </header>
+
+        <main>
+            <form>
+                <fieldset>
+                    <legend>Player Information</legend>
+                    <label for="fname">First name:</label>
+                    <input type="text" id="fname" name="fname" required><br><br>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email"
+                        required><br><br>
+                    <label for="age">Age:</label>
+                    <input type="number" id="age" name="age" min="10"
+                        max="100"><br><br>
+                    <label for="experience">Please rate your experience from the
+                        dropdown.</label>
+                    <select name="experience" id="experience">
+                        <option>Excellent</option>
+                        <option>Good</option>
+                        <option>Average</option>
+                        <option>Poor</option>
+                    </select><br><br>
+                    <label for="feedback">Please provide some detailed feedback
+                        if any.</label><br><br>
+                    <textarea id="feedback" name="feedback" rows="4" cols="50"
+                        placeholder="Provide feedback here."></textarea>
+                    <br><br>
+                    <label for="updates">Would you like to subscribe to
+                        updates?</label>
+                    <input type="checkbox" id="updates" name="updates"
+                        value="Yes">
+                </fieldset>
+                <input type="submit">
+            </form>
+            <footer>
+                <p>Thanks for playing. Any questions? Contact us at <a
+                        href="mailto:feedback@email.com">feedback@email.com</a></p>
+            </footer>
+        </main>
+    </body>
+</html>
