@@ -4,7 +4,7 @@ This repository contains front-end practice projects created as part of my self-
 
 ---
 
-## 🧠 How Projects Are Generated
+## 🧠 How Projects Are Generated (README.md's)
 
 Each project is generated using a learning assistant (ChatGPT) with the following approach:
 
