@@ -1,0 +1,25 @@
+body {
+    background-color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+header {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    width: 800px;
+    margin: auto;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
