@@ -1,0 +1,25 @@
+body{
+    background-color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1, h2{
+    font-size: 50px;
+}
+
+.blog-content{
+    max-width: 800px;
+    margin: auto;
+}
+
+p, a{
+    font-size: 20px;
+}
+
+a:hover {
+    color: white;
+}
+
+a:visited {
+    color: purple;
+}
