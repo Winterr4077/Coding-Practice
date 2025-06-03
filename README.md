@@ -31,13 +31,9 @@ Each project is generated using a learning assistant (ChatGPT) with the followin
 
 ## 🛠️ Skills Practised
 
-- Semantic HTML5
-- External CSS structure
-- Responsive content layout
-- Link styling, spacing, and content formatting
+- Semantic HTML5 ✅
+- External CSS structure ✅
+- Responsive content layout ✅
+- Link styling, spacing, and content formatting ✅
 
 ---
-
-## 👤 Author
-
-**Winterr4077**  
