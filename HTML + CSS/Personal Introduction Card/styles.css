@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+}
+
+.intro-card {
+    padding: 20px;
+    border: 40px;
+    text-align: center;
+    margin: auto;
+}
+
+.pepo {
+    margin: auto;
+    padding: 20px; 
+    border: 40px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
