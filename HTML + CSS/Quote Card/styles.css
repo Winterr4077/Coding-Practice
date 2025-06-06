@@ -1,0 +1,25 @@
+
+body {
+    background-color: #1C1C1E;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: larger;
+}
+
+.quote-card {   
+    border: 10px dotted blue;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    color: #F4F4F9;
+}
