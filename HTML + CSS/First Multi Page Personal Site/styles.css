@@ -1,0 +1,26 @@
+body {
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 800px;
+    margin: auto;
+}
+
+main, footer, header {
+    padding: 5px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav a:hover {
+  background-color: white;
+  font-size: 18px;
+}
+
+.project {
+    background-color: aqua;
+    padding: 5px;
+    margin: 5px;
+    text-align: left;
+}
