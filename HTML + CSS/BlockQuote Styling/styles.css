@@ -1,0 +1,24 @@
+body {
+    background-color: #afb2b6;
+}
+
+.quote {
+    border-left: 5px solid #1e90ff;
+    color: #212529;
+    font-style: italic;
+    font-size: larger;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+cite {
+    font-size: 14px;
+    color: #6c757d;
+    margin-top: 15px;
+    font-style: italic;
+    margin: auto;
+    max-width: 600px;  
+    display: block;
+    text-align: right;
+}
