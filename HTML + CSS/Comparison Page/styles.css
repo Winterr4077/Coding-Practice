@@ -1,0 +1,47 @@
+body {
+    background-color: #121212;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, header {
+    color: #ccc;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+    color: #ccc;
+}
+
+td, th {
+  padding: 12px;
+}
+
+tr:nth-child(even) {
+    background-color: #2a2a2a;
+}
+
+.quote {
+    background-color: #1f1f1f;
+    border-left: 6px solid #1e90ff;
+    padding: 20px;
+    font-style: italic;
+}
+
+cite {
+    color: #ccc;
+}
+
+footer a {
+    font-size: small;
+    color: #888;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a:hover{
+    text-decoration: underline;
+}
