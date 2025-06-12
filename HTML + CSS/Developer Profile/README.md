@@ -1,6 +1,6 @@
 ## 🧪 Project: Developer Profile Page
 
-Build a polished one-page **Developer Profile** for yourself (or a fictional character like Pepo). The goal is to structure it like a real portfolio, showcasing personal info, skills, and a highlighted project.
+Build a polished one-page **Developer Profile** for yourself. The goal is to structure it like a real portfolio, showcasing personal info, skills, and a highlighted project.
 
 ---
 
